@@ -1,0 +1,13 @@
+{
+  "name": "Dezka Demo",
+  "description": "Una app nomas por Yolo",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+   "bluetooth": { },
+  "icons": { "16": "logo16.png", "128": "logo128.png" }
+}
